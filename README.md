@@ -21,7 +21,7 @@ Bem-vindo ao meu GitHub! Sou desenvolvedor de software com experiência em **Jav
 > e os clientes poderão marcar um horário para ser atendido. Com o controle detalhado,
 > trará mais qualidade e conforto no atendimento e consequentemente trazendo uma melhoria na prestação do serviço.
 >
-> O projeto foi realizado utilizando JavaScript, HTML, CSS, React e Vite.js
+> O projeto foi realizado utilizando TypeScript, HTML, CSS, React e Vite.js
 
 ![Assistech](https://drive.google.com/file/d/1O2osd8YZe5loiy5PWbYfLJmVnGTxptL_/view?usp=drive_link)
 ![Assistech](https://drive.google.com/file/d/1frjLje2wkmND6idHLUljJtWWPfmN56uT/view?usp=drive_link)
