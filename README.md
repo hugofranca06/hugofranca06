@@ -1,47 +1,48 @@
 # 👋 Olá, sou Hugo França!
 
-Bem-vindo ao meu GitHub! Sou desenvolvedor de software com experiência em **Java Spring Boot** e **MySQL**. Aqui estão alguns dos meus projetos mais recentes.
+Bem-vindo ao meu GitHub! Sou desenvolvedor de software com experiência em **Nest.js**, **Java Spring Boot** e **MySQL**. Aqui estão alguns dos meus projetos mais recentes.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💻 Atualmente estou me aprofundando em: **Java**, **Spring Boot**, **MySQL**
-- 🌱 Mas também estou aprendendo: **React**, **TypeScript**
+- 💻 Atualmente estou me aprofundando em: **Node.js | Nest,js**, **Java**, **Spring Boot**, **MySQL**
+- 🌱 Mas também estou aprendendo: **React**, **TypeScript**, **Docker**
 
 ---
 
-## 💼 Projetos Destacados
+## 💼 Projeto Atual
 
-### 🌟 [Assistech] - Front-end (https://github.com/hugofranca06/M06-FrontEnd)
-> A Assistech é uma API com o objetivo de controlar os agendamentos de serviços
-> realizados em assistências técnicas, é necessário que haja um controle dos horários
-> disponíveis para realização do conserto de equipamentos eletroeletrônicos que estejam
-> na garantia. Assim, as assistências técnicas poderão consultar seus agendamentos disponíveis
-> e os clientes poderão marcar um horário para ser atendido. Com o controle detalhado,
-> trará mais qualidade e conforto no atendimento e consequentemente trazendo uma melhoria na prestação do serviço.
->
-> O projeto foi realizado utilizando TypeScript, HTML, CSS, React e Vite.js
-
-![Assistech](https://drive.google.com/file/d/1O2osd8YZe5loiy5PWbYfLJmVnGTxptL_/view?usp=drive_link)
-![Assistech](https://drive.google.com/file/d/1frjLje2wkmND6idHLUljJtWWPfmN56uT/view?usp=drive_link)
-![Assistech](https://drive.google.com/file/d/1i28mGqnBK_4mXV3fCHJsQZP7Wkmyxe0a/view?usp=drive_link)
-![Assistech](https://drive.google.com/file/d/1Hf8h_VnTN8VKOlVrgmatMLai5BJvMPxc/view?usp=drive_link)
-
-### 🌟 [Assistech - Back-end](https://github.com/hugofranca06/Assistech-backend)
-> O back-end do projeto Assistech foi realizado utilizando Java, Spring Boot e MySQL
-
+### 🌟 [Sistema Viver Melhor - ABNMO](https://github.com/ipecode-br/abnmo-backend)
+> **Desenvolvedor Backend Voluntário** para a Associação Brasileira de Neuromielite Óptica
+> 
+> - Desenvolvimento de API RESTful com **NestJS** e **TypeScript**
+> - Sistema de gestão de pacientes com **MySQL**
+> - Metodologias ágeis em ambiente profissional voluntário
+> - Colaboração com equipe multidisciplinar (Frontend, DevOps, QA)
+> - Implementação de autenticação segura e documentação de APIs
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: Java
-- **Frameworks**: Spring Boot
-- **Bancos de Dados**: MySQL
-- **Ferramentas**: Git
+**Desenvolvimento Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Bancos de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ---
+
 
 ## 📬 Contato
 
